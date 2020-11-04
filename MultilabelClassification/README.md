@@ -11,5 +11,6 @@ The labels are binary vectors according to the present/absense of a given class
 * **Custom_trasnforms.py**: contains the different transforms applied to the dataset
 * **Data_load_functions.py**: how the images, labels and masks are loaded into the dataset
 * **Early_stopping.py**: an early stopping implementation
+* **Utils.py**: contains the dataloaders generation, training and evaluation methods
 * **Main.py**: contains all the workflow. The images are loaded, the model is trained and evaluates the performance over the test set
 * **evaluate_results.py**: write the ground truth and the predictions from the multi-label classification into .txt files for evaluation
