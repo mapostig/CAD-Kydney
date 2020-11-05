@@ -1,6 +1,7 @@
 # Automatic Diagnosis Of Renal Pathologies Using Kidney Ultrasound Imaging
 
 **Author: María Postigo Fliquete**
+## **Please reference this source if you employ the CAD code and implementations**
 
 The identification of renal pathologies on their early stages is essential to avoid the development of the disease. Therefore, good primary care judgment is critical. However, the lack of skill in adquiring and interpreting kidney US images in primary care leads to significant challenges in clinical decision making.
 
