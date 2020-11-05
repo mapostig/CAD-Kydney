@@ -24,4 +24,6 @@ CODE:
 * Multilabel classification (gobal image classification)
 * Multilabel classification (Based on local object detection)
 
+![alt text](https://github.com/mapostig/CAD-Kydney/blob/main/images/GlobalScheme.PNG?raw=true)
+
 Examples of images, annotations, labels, splits and masks will be available soon.
