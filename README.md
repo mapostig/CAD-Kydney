@@ -18,7 +18,9 @@ The paper is available in "TFM_MariaPostigo.pdf"
 
 The presentation is available in "TFM_MariaPostigo_Slides.pdf"
 
-The code will be available soon.
+CODE:
 * Binary classification
 * Multilabel classification (gobal image classification)
 * Multilabel classification (Based on local object detection)
+
+Examples of images, annotations, labels, splits and masks will be available soon.
